@@ -1,0 +1,500 @@
+   30  make clean
+   31  make
+   32   bin/test-hw -v 2
+   33  make clean
+   34  make
+   35   bin/test-hw -v 2
+   36   bin/test-hw -v 1
+   37  make clean
+   38  make
+   39   bin/test-hw -v 1
+   40   bin/test-hw -v 2
+   41  make clean
+   42  amke
+   43  make
+   44   bin/test-hw -v 2
+   45  make clean
+   46  make
+   47   bin/test-hw -v 2
+   48  make clean
+   49  make
+   50   bin/test-hw -v 2
+   51  make clean
+   52  make
+   53   bin/test-hw -v 2
+   54   bin/test-hw -v 1
+   55  make clean
+   56  make
+   57   bin/test-hw -v 1
+   58   bin/test-hw -v 2
+   59  make clean
+   60  make
+   61  gdb bin/se
+   62  make clean
+   63  make
+   64  bin/test-hw -v 1
+   65  bin/test-hw -v 2
+   66  maek clean
+   67  make clean
+   68  make
+   69  bin/test-hw -v 2
+   70  bin/test-hw -v 2
+   71  bin/test-hw -v 1
+   72  bin/test-hw -v 2
+   73  make clean
+   74  make clean
+   75  make
+   76  bin/test-hw -v 2
+   77  bin/test-hw -v 1
+   78  make clean
+   79  make
+   80  bin/test-hw -v 1
+   81  bin/test-hw -v 2
+   82  make clean
+   83  make
+   84  bin/test-hw -v 1
+   85  bin/test-hw -v 2
+   86  make clean
+   87  make
+   88  bin/test-hw -v 2
+   89  make clean
+   90  make
+   91  bin/test-hw -v 2
+   92  make clean
+   93  make
+   94  bin/test-hw -v 2
+   95  make clealn
+   96  make clean
+   97  make
+   98  bin/test-hw -v 2
+   99  make clean
+  100  make
+  101  bin/test-hw -v 2
+  102  make clean
+  103  make
+  104  bin/test-hw -v 2
+  105  make clean 
+  106  make 
+  107  bin/test-hw -v 2
+  108  make clean
+  109  make
+  110  bin/test-hw -v 2
+  111  make clean
+  112  make
+  113  bin/test-hw -v 1
+  114  bin/test-hw -v 2
+  115  make clean
+  116  make
+  117  bin/test-hw -v 2
+  118  bin/test-hw -v 1
+  119  make clean
+  120  make
+  121  bin/test-hw -v 1
+  122  bin/test-hw -v 2
+  123  make clean
+  124  make
+  125  bin/test-hw -v 2
+  126  bin/test-hw -v 1
+  127  make clean
+  128  make
+  129  bin/test-hw -v 1
+  130  make clean
+  131  make
+  132  bin/test-hw -v 1
+  133  bin/test-hw -v 2
+  134  make clean
+  135  make
+  136  bin/test-hw -v 2
+  137  make clean
+  138  make
+  139  bin/test-hw -v 2
+  140  make clean
+  141  make
+  142  bin/test-hw -v 2
+  143  make clean
+  144  make
+  145  bin/test-hw -v 2
+  146  make clean
+  147  make
+  148  bin/test-hw -v 2
+  149  bin/test-hw -v 1
+  150  bin/test-hw -v 2
+  151  make clean
+  152  make
+  153  bin/test-hw -v 2
+  154  make clean
+  155  make
+  156  bin/test-hw -v 2
+  157  make clean
+  158  make
+  159  bin/test-hw -v 2
+  160  bin/test-hw -v 1
+  161  make clean
+  162  make
+  163  bin/test-hw -v 1
+  164  bin/test-hw -v 2
+  165  make clean
+  166  make
+  167  bin/test-hw -v 2
+  168  make clean
+  169  make
+  170  make clean 
+  171  make
+  172  bin/test-hw -v 2
+  173  make clean 
+  174  make
+  175  bin/test-hw -v 2
+  176  make clean
+  177  make
+  178  bin/test-hw -v 2
+  179  make clean
+  180  make
+  181  bin/test-hw -v 2
+  182  bin/test-hw -v 1
+  183  bin/test-hw -v 2
+  184  make clean
+  185  make
+  186  bin/test-hw -v 2
+  187  make clean
+  188  make
+  189  bin/test-hw -v 2
+  190  make clean
+  191  make
+  192  bin/test-hw -v 2
+  193  bin/test-hw -v 1
+  194  bin/test-hw -v 2
+  195  make clean
+  196  make
+  197  bin/test-hw -v 2
+  198  bin/test-hw -v 1
+  199  bin/test-hw -v 2
+  200  -v 1
+  201  bin/test-hw -v 1
+  202  bin/test-hw -v 2
+  203  make clean
+  204  make
+  205  bin/test-hw -v 2
+  206  make clean
+  207  make
+  208  bin/test-hw -v 2
+  209  bin/test-hw -v 0
+  210  make clean
+  211  make
+  212  make 
+  213  make
+  214  ls
+  215  cd se-lab-naina-nashly
+  216  code .
+  217  make clean
+  218  make
+  219  bin/test-hw -v 1
+  220  bin/test-hw -v 2
+  221  make clean 
+  222  make
+  223  bin/test-hw -v 2
+  224  bin/test-hw -v 1
+  225  make clean
+  226  make
+  227  bin/test-hw -v 1
+  228  bin/test-hw -v 2
+  229  make clean
+  230  make
+  231  bin/test-hw -v 2
+  232  bin/test-hw -v 1
+  233  make clean
+  234  make
+  235  bin/test-hw -v 1
+  236  make clean
+  237  make
+  238   bin/test-hw -v 1
+  239  ls
+  240  ls
+  241  cd se-lab-naina-nashly
+  242  code .
+  243  ls 
+  244  cd se-lab-naina-nashly
+  245  code .
+  246  code .
+  247  ls
+  248  cd se-lab-naina-nashly
+  249  code .
+  250  cd
+  251  ls
+  252  cd se-lab-naina-nashly
+  253  code .
+  254  ls
+  255  clean
+  256  clear
+  257  clean
+  258  clear
+  259  stop
+  260  delete
+  261  clear
+  262  ls
+  263  ls
+  264  cd se-lab-naina-nashly
+  265  code 
+  266  make clean
+  267  git add .
+  268  git push -m "fetch, decode, execute"
+  269  git push
+  270  ls
+  271  ls
+  272  make
+  273  make
+  274  make clean
+  275  make
+  276  clear
+  277  make
+  278  clear
+  279  make
+  280  clear
+  281  make
+  282  clear
+  283  make
+  284  clear
+  285  make
+  286  make clean
+  287  make
+  288  clear
+  289  make
+  290  clear
+  291  make
+  292  clear
+  293  make
+  294  clear
+  295  make
+  296  cleaer
+  297  clear
+  298  make
+  299  clear
+  300  make
+  301  clear
+  302  make
+  303  clear
+  304  make
+  305  make
+  306  make clean
+  307  make
+  308  bin/test -i testcases/basics/add
+  309  ls
+  310  bin/test-hw -v 1
+  311  bin/test-se -w
+  312  bin/test-se -w2
+  313  bin/se -i testcases/alu/simple/adds -v 2 -c out
+  314  ls
+  315  cd se-lab-naina-nashly
+  316  code .
+  317  git add .
+  318  git commit -m"fixed bugs"
+  319  git push
+  320  make
+  321  clear
+  322  make
+  323  clear
+  324  make clean
+  325  all
+  326  make all
+  327  clean
+  328  clean all
+  329  clean
+  330  make clean
+  331  make
+  332  bin/se -i testcases/basics/add -v 2
+  333  make clean
+  334  make
+  335  gdb bin/se
+  336  make clean
+  337  make
+  338  make clean
+  339  make
+  340  bin/se -i testcases/basics/add -v 2
+  341  make clean 
+  342  make
+  343  gdb bin/se
+  344  make clean
+  345  make
+  346  git add .
+  347  git commit -m"did not change much"
+  348  git push
+  349  make week2
+  350  bin/se -i testcases/basic/add
+  351  bin/se -i testcases/basics/add 
+  352  bin/se -i testcases/basics/add -v 2
+  353  bin/se -i testcases/basics/add -v 2 | less
+  354  make clean
+  355  make
+  356  make week2
+  357  bin/se -i testcases/basics/add -v 2
+  358  bin/se -i testcases/basics/add -v 2 | less
+  359  make week2
+  360  bin/se -i testcases/basics/add -v 2 | less
+  361  make clean
+  362  make
+  363  git add .
+  364  git commmit -m"fixed runner bug"
+  365  git commit -m"fixed runner bug"
+  366  git push
+  367  make clean 
+  368  make
+  369  bin/se -i testcases/basics/add -v 2 | less
+  370  bin/se -i testcases/basics/add -v 2 | less
+  371  bin/se -i testcases/basics/add -v 2 | less
+  372  bin/se -i testcases/basics/add -v 2 | less
+  373  make
+  374  make week2
+  375  bin/se -i testcases/basics/add -v 2 | less
+  376  make clean
+  377  make week2
+  378  bin/se -i testcases/basics/add -v 2 | less
+  379  bin/se -i testcases/basics/add -v 
+  380  bin/se -i testcases/basics/add -v 2
+  381  make clean
+  382  make
+  383  make clean make week2
+  384  make week2
+  385  bin/se -i testcases/basics/add -v 2 | less
+  386  bin/se -i testcases/basics/add -v 2
+  387  bin/se -i testcases/basics/add -v
+  388  bin/se -i testcases/basics/add -v 2
+  389  maek clean
+  390  make clean
+  391  make week2
+  392  bin/se -i testcases/basics/add -v 2
+  393  make
+  394  make clean
+  395  make week2
+  396  bin/se -i testcases/basics/add -v 2
+  397  bin/se -i testcases/basics/add -v 2 | less
+  398  make clean 
+  399  make week2
+  400  bin/se -i testcases/basics/add -v 2 | less
+  401  make clean
+  402  make week2
+  403  bin/se -i testcases/basics/add -v 2 | less
+  404  make clean
+  405  make
+  406  make week2
+  407  bin/se -i testcases/basics/add -v 2 | less
+  408  make week2
+  409  git add .
+  410  git commit -m "push"
+  411  git commit
+  412  git push
+  413  clean
+  414  make clean
+  415  make week2
+  416  bin/se -i testcases/basics/add -v 2
+  417  bin/se -i testcases/basics/add -v 2 | less
+  418  bin/se-ref-wk2 -i testcases/basics/add -v 2 | less
+  419  make clean
+  420  make week2
+  421  bin/se-ref-wk2 -i testcases/basics/add -v 2 | less
+  422  bin/se -i testcases/basics/add -v 2
+  423  bin/se -i testcases/basics/add -v 2 |less
+  424  bin/se-ref-wk2  -i testcases/basics/add -v 2 |less
+  425  make clean
+  426  make week2
+  427  bin/se -i testcases/basics/add -v 2 |less
+  428  make clean
+  429  make week2
+  430  make clean
+  431  make week2
+  432  ls
+  433  ls
+  434  ls 
+  435  cd Documents
+  436  ls
+  437  ls documents
+  438  ls
+  439  cd
+  440  ls
+  441  ls mastery
+  442  ls ~/*mastery*
+  443  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  444  ls
+  445  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  446  cldaen
+  447  clean
+  448  cldear
+  449  clean
+  450  clear
+  451  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  452  ssh -keygen -t ed25519
+  453  ssh - keygen -t ed25519
+  454  ssh- keygen -t ed25519
+  455  clean
+  456  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  457  cat ~/.ssh/id_ed25519.pub
+  458  ls ~/.ssh/
+  459  nano ~/.ssh/config
+  460  nano github
+  461  nano authorized_key
+  462  nano known_host
+  463  nano github.pub
+  464  ssh -T git@github.com
+  465  nano
+  466  nano ~/.ssh/config
+  467  nano ~/.ssh/authorized_keys
+  468  nano ~/.ssh/github
+  469  nano ~/.ssh/github.pub
+  470  nano ~/.ssh/known_hosts
+  471  ls
+  472  pwd
+  473  cd downloads
+  474  ls
+  475  cd Downloads
+  476  ls
+  477  ls
+  478  pwd
+  479  home
+  480  ~pd
+  481  cd
+  482  ls
+  483  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  484  ssh-keygen -t ed25519
+  485  cat /u/nao657/.ssh/id_ed25519.pub
+  486  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  487  ssh nao657@linix.cs.utexas.edu
+  488  ssh nao657@linux.cs.utexas.edu
+  489  ls
+  490  cd mastery-version-a
+  491  code .
+  492  ls
+  493  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  494  ssh nao657@key.cs.utexas.edu
+  495  make clean
+  496  make
+  497  make mini_ci
+  498  ls
+  499  cd mastery-version-a
+  500  code .
+  501  nano ~/.gdbinit
+  502  echo ~/.gdbinit
+  503  touch ~/.gdbinit
+  504  echo "set history save on"
+  505  delet 
+  506  ./mini_ci testcases/basic_add.s
+  507  ./mini_ci testcases
+  508  ./mini_ci check
+  509  ./mini_ci testcases/basic_add.s check
+  510  make check
+  511  make clean
+  512  make debug
+  513  gdb mini_ci
+  514  make clean
+  515  make debug
+  516  make check
+  517  make clean
+  518  make debug
+  519  gdb mini_ci
+  520  make clean
+  521  make
+  522  ./mini_ci testcases/multi_op_err.s
+  523  make check
+  524  make clean
+  525  make debug
+  526  hisotry
+  527  history
+  528  touch shell_logs.txt
+  529  history > shell_logs.txt

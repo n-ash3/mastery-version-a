@@ -1,0 +1,46 @@
+r testcases/err_ops.s
+bt
+b calculate_result : 23
+r testcases/err_ops.s
+n
+print *val_a
+print *val_b
+make clean
+make debug
+make clean
+make
+r testcases/err_ops.s
+c
+bt
+q
+r testcases/err_ops.s
+bt
+b calculate_result : 23
+r testcases/err_ops.s
+n
+print *val_a
+print *val_b
+make clean
+make debug
+make clean
+make
+r testcases/err_ops.s
+c
+bt
+q
+r testcases/err_ops.s
+bt
+b calculate_result : 23
+r testcases/err_ops.s
+n
+print *val_a
+print *val_b
+make clean
+make debug
+make clean
+make
+r testcases/err_ops.s
+c
+bt
+q
+r testcases/err_ops2.s≈

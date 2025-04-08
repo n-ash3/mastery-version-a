@@ -25,7 +25,7 @@ Unfortunately, this program may be wrong!
 5. read then use the Makefile
 6. debug the test cases using GDB
 7. Ensure your output matches the reference exactly.
-8. Create a log file and inclue your shell logs and gdb logs
+8.      gdCreate a log file and inclue your shell logs and gdb logs
 9. commit and push your changes
 10. use git log and show proctor
 11. delete your local copy of this repository (you will need to use the r and f flags)
